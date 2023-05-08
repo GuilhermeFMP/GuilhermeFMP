@@ -19,6 +19,7 @@
   <img align='center' height='30' widgt='40' src='https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white' />
   <img align='center' height='30' widgt='40' src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' />
   <img align='center' height='30' widgt='40' src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white' />
+  <br/>
   <img align='center' height='30' widgt='40' src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' />
   <img align='center' height='30' widgt='40' src='https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens' />
   <img align='center' height='30' widgt='40' src='https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white' />
