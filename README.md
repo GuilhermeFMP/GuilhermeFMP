@@ -1,6 +1,6 @@
 ### Olá Pessoa 👋 Sou Guilherme Pinho!!
 
-- 🌱 Eu atualmente estou aprendendo Desenvolvimento Web Full Stack na instituição Trybe ^^.
+- 🌱 Eu atualmente estou trabalhando na empresa PSA Tech Corporative Solutions.
 - 🚀 Meu objetivo é me tornar Desenvolvedor Senior.
 - 🤔 Eu gosto de ajudar, se precisar de ajuda me manda uma DM. :)
 - 💬 Me pergunte sobre Tecnologia ou Games, conversaremos por horas.
